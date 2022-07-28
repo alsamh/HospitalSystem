@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\web-Services\hmsVideo\hmsVideo\obj\Debug\HospitalSystem.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\web-Services\hmsVideo\hmsVideo\obj\Debug\HospitalSystem.Dashboard.resources
+C:\Users\hp\source\repos\web-Services\hmsVideo\hmsVideo\obj\Debug\HospitalSystem.Form1.resources
+C:\Users\hp\source\repos\web-Services\hmsVideo\hmsVideo\obj\Debug\HospitalSystem.Properties.Resources.resources
+C:\Users\hp\source\repos\web-Services\hmsVideo\hmsVideo\obj\Debug\HospitalSystem.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\web-Services\hmsVideo\hmsVideo\obj\Debug\HospitalSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe.config
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.pdb
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Dashboard.resources
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form1.resources
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Properties.Resources.resources
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.exe
+C:\Users\hp\source\repos\web-Services\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.pdb

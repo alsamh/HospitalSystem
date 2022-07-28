@@ -1,0 +1,11 @@
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\bin\Debug\hmsVideo.exe.config
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\bin\Debug\hmsVideo.exe
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\bin\Debug\hmsVideo.pdb
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.Form1.resources
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.Properties.Resources.resources
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.csproj.GenerateResource.cache
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.exe
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.pdb
+C:\Users\hp\Source\Repos\web-Services\hmsVideo\hmsVideo\obj\Debug\hmsVideo.Dashboard.resources
