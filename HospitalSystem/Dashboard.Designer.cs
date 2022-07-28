@@ -64,32 +64,32 @@
             this.txtName = new System.Windows.Forms.TextBox();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.txtBxSymptoms = new System.Windows.Forms.TextBox();
-            this.txtBxDiagonosis = new System.Windows.Forms.TextBox();
-            this.txtBxMedicines = new System.Windows.Forms.TextBox();
-            this.comboBxWard = new System.Windows.Forms.ComboBox();
-            this.comboBxWardType = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.comboBxWardType = new System.Windows.Forms.ComboBox();
+            this.comboBxWard = new System.Windows.Forms.ComboBox();
+            this.txtBxMedicines = new System.Windows.Forms.TextBox();
+            this.txtBxDiagonosis = new System.Windows.Forms.TextBox();
+            this.txtBxSymptoms = new System.Windows.Forms.TextBox();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.label20 = new System.Windows.Forms.Label();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.label20 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.label21 = new System.Windows.Forms.Label();
-            this.label22 = new System.Windows.Forms.Label();
-            this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.label26 = new System.Windows.Forms.Label();
             this.label27 = new System.Windows.Forms.Label();
+            this.label26 = new System.Windows.Forms.Label();
+            this.label25 = new System.Windows.Forms.Label();
+            this.label24 = new System.Windows.Forms.Label();
+            this.label23 = new System.Windows.Forms.Label();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel1.SuspendLayout();
@@ -455,119 +455,15 @@
             this.panel2.Size = new System.Drawing.Size(811, 508);
             this.panel2.TabIndex = 18;
             // 
-            // label13
+            // button1
             // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(129, 22);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(570, 32);
-            this.label13.TabIndex = 0;
-            this.label13.Text = "Hasta Hakkında Daha Fazla Bilgi Ekleme";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(310, 88);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(28, 17);
-            this.label14.TabIndex = 1;
-            this.label14.Text = "Pid";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(368, 83);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 22);
-            this.textBox1.TabIndex = 2;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
-            // 
-            // dataGridView1
-            // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(32, 123);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(743, 165);
-            this.dataGridView1.TabIndex = 3;
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(29, 326);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(59, 17);
-            this.label15.TabIndex = 4;
-            this.label15.Text = "Belirtiler";
-            // 
-            // label16
-            // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(29, 374);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(50, 17);
-            this.label16.TabIndex = 5;
-            this.label16.Text = "Teşhis";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(29, 419);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(45, 17);
-            this.label17.TabIndex = 6;
-            this.label17.Text = "İlaçlar";
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(434, 326);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(97, 17);
-            this.label18.TabIndex = 7;
-            this.label18.Text = "Koğuş Gerekli";
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(434, 374);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(94, 17);
-            this.label19.TabIndex = 8;
-            this.label19.Text = "Koğuş Türü ?";
-            this.label19.Click += new System.EventHandler(this.label19_Click);
-            // 
-            // txtBxSymptoms
-            // 
-            this.txtBxSymptoms.Location = new System.Drawing.Point(109, 321);
-            this.txtBxSymptoms.Name = "txtBxSymptoms";
-            this.txtBxSymptoms.Size = new System.Drawing.Size(174, 22);
-            this.txtBxSymptoms.TabIndex = 9;
-            // 
-            // txtBxDiagonosis
-            // 
-            this.txtBxDiagonosis.Location = new System.Drawing.Point(109, 369);
-            this.txtBxDiagonosis.Name = "txtBxDiagonosis";
-            this.txtBxDiagonosis.Size = new System.Drawing.Size(174, 22);
-            this.txtBxDiagonosis.TabIndex = 10;
-            // 
-            // txtBxMedicines
-            // 
-            this.txtBxMedicines.Location = new System.Drawing.Point(109, 414);
-            this.txtBxMedicines.Name = "txtBxMedicines";
-            this.txtBxMedicines.Size = new System.Drawing.Size(174, 22);
-            this.txtBxMedicines.TabIndex = 11;
-            // 
-            // comboBxWard
-            // 
-            this.comboBxWard.FormattingEnabled = true;
-            this.comboBxWard.Items.AddRange(new object[] {
-            "Evet",
-            "Hayır"});
-            this.comboBxWard.Location = new System.Drawing.Point(545, 323);
-            this.comboBxWard.Name = "comboBxWard";
-            this.comboBxWard.Size = new System.Drawing.Size(121, 24);
-            this.comboBxWard.TabIndex = 12;
+            this.button1.Location = new System.Drawing.Point(550, 433);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 28);
+            this.button1.TabIndex = 14;
+            this.button1.Text = "Kaydet";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // comboBxWardType
             // 
@@ -581,15 +477,119 @@
             this.comboBxWardType.Size = new System.Drawing.Size(121, 24);
             this.comboBxWardType.TabIndex = 13;
             // 
-            // button1
+            // comboBxWard
             // 
-            this.button1.Location = new System.Drawing.Point(550, 433);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 28);
-            this.button1.TabIndex = 14;
-            this.button1.Text = "Kaydet";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            this.comboBxWard.FormattingEnabled = true;
+            this.comboBxWard.Items.AddRange(new object[] {
+            "Evet",
+            "Hayır"});
+            this.comboBxWard.Location = new System.Drawing.Point(545, 323);
+            this.comboBxWard.Name = "comboBxWard";
+            this.comboBxWard.Size = new System.Drawing.Size(121, 24);
+            this.comboBxWard.TabIndex = 12;
+            // 
+            // txtBxMedicines
+            // 
+            this.txtBxMedicines.Location = new System.Drawing.Point(109, 414);
+            this.txtBxMedicines.Name = "txtBxMedicines";
+            this.txtBxMedicines.Size = new System.Drawing.Size(174, 22);
+            this.txtBxMedicines.TabIndex = 11;
+            // 
+            // txtBxDiagonosis
+            // 
+            this.txtBxDiagonosis.Location = new System.Drawing.Point(109, 369);
+            this.txtBxDiagonosis.Name = "txtBxDiagonosis";
+            this.txtBxDiagonosis.Size = new System.Drawing.Size(174, 22);
+            this.txtBxDiagonosis.TabIndex = 10;
+            // 
+            // txtBxSymptoms
+            // 
+            this.txtBxSymptoms.Location = new System.Drawing.Point(109, 321);
+            this.txtBxSymptoms.Name = "txtBxSymptoms";
+            this.txtBxSymptoms.Size = new System.Drawing.Size(174, 22);
+            this.txtBxSymptoms.TabIndex = 9;
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(434, 374);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(94, 17);
+            this.label19.TabIndex = 8;
+            this.label19.Text = "Koğuş Türü ?";
+            this.label19.Click += new System.EventHandler(this.label19_Click);
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(434, 326);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(97, 17);
+            this.label18.TabIndex = 7;
+            this.label18.Text = "Koğuş Gerekli";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(29, 419);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(45, 17);
+            this.label17.TabIndex = 6;
+            this.label17.Text = "İlaçlar";
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(29, 374);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(50, 17);
+            this.label16.TabIndex = 5;
+            this.label16.Text = "Teşhis";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(29, 326);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(59, 17);
+            this.label15.TabIndex = 4;
+            this.label15.Text = "Belirtiler";
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(32, 123);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(743, 165);
+            this.dataGridView1.TabIndex = 3;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(368, 83);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
+            this.textBox1.TabIndex = 2;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(310, 88);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(28, 17);
+            this.label14.TabIndex = 1;
+            this.label14.Text = "Pid";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.Location = new System.Drawing.Point(129, 22);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(570, 32);
+            this.label13.TabIndex = 0;
+            this.label13.Text = "Hasta Hakkında Daha Fazla Bilgi Ekleme";
             // 
             // panel3
             // 
@@ -601,6 +601,15 @@
             this.panel3.Size = new System.Drawing.Size(811, 508);
             this.panel3.TabIndex = 15;
             // 
+            // dataGridView2
+            // 
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(16, 87);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.RowTemplate.Height = 24;
+            this.dataGridView2.Size = new System.Drawing.Size(778, 403);
+            this.dataGridView2.TabIndex = 1;
+            // 
             // label20
             // 
             this.label20.AutoSize = true;
@@ -610,15 +619,6 @@
             this.label20.Size = new System.Drawing.Size(313, 32);
             this.label20.TabIndex = 0;
             this.label20.Text = "Hastanın Tam Öyküsü";
-            // 
-            // dataGridView2
-            // 
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(16, 87);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowTemplate.Height = 24;
-            this.dataGridView2.Size = new System.Drawing.Size(778, 403);
-            this.dataGridView2.TabIndex = 1;
             // 
             // panel4
             // 
@@ -635,55 +635,15 @@
             this.panel4.Size = new System.Drawing.Size(811, 508);
             this.panel4.TabIndex = 19;
             // 
-            // label21
+            // label27
             // 
-            this.label21.AutoSize = true;
-            this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.Location = new System.Drawing.Point(230, 27);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(335, 39);
-            this.label21.TabIndex = 0;
-            this.label21.Text = "Teknoloji Hastanesi";
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(46, 87);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(440, 20);
-            this.label22.TabIndex = 1;
-            this.label22.Text = "Bu sadece gerçekte var olmayan sahte bir hastane.";
-            // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(47, 127);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(724, 20);
-            this.label23.TabIndex = 2;
-            this.label23.Text = "Bu sistem öğrenci AL-SAMH AL-SAMRI tarafından eğitim amacıyla programlanmıştır.";
-            // 
-            // label24
-            // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(46, 161);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(567, 20);
-            this.label24.TabIndex = 3;
-            this.label24.Text = "Mersin Üniversitesi ve Kardelen Yazılım şirketi ye özel teşekkürler";
-            // 
-            // label25
-            // 
-            this.label25.AutoSize = true;
-            this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(233, 298);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(262, 20);
-            this.label25.TabIndex = 4;
-            this.label25.Text = "Stajyer : AL-SAMH AL-SAMRI";
+            this.label27.AutoSize = true;
+            this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label27.Location = new System.Drawing.Point(234, 388);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(275, 20);
+            this.label27.TabIndex = 6;
+            this.label27.Text = "Bölüm : Bilgisayar Mühendisliği";
             // 
             // label26
             // 
@@ -695,15 +655,55 @@
             this.label26.TabIndex = 5;
             this.label26.Text = "Öğrenci Numara : 17155943";
             // 
-            // label27
+            // label25
             // 
-            this.label27.AutoSize = true;
-            this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label27.Location = new System.Drawing.Point(234, 388);
-            this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(275, 20);
-            this.label27.TabIndex = 6;
-            this.label27.Text = "Bölüm : Bilgisayar Mühendisliği";
+            this.label25.AutoSize = true;
+            this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label25.Location = new System.Drawing.Point(233, 298);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(262, 20);
+            this.label25.TabIndex = 4;
+            this.label25.Text = "Stajyer : AL-SAMH AL-SAMRI";
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label24.Location = new System.Drawing.Point(46, 161);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(567, 20);
+            this.label24.TabIndex = 3;
+            this.label24.Text = "Mersin Üniversitesi ve Kardelen Yazılım şirketi ye özel teşekkürler";
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label23.Location = new System.Drawing.Point(47, 127);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(724, 20);
+            this.label23.TabIndex = 2;
+            this.label23.Text = "Bu sistem öğrenci AL-SAMH AL-SAMRI tarafından eğitim amacıyla programlanmıştır.";
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label22.Location = new System.Drawing.Point(46, 87);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(440, 20);
+            this.label22.TabIndex = 1;
+            this.label22.Text = "Bu sadece gerçekte var olmayan sahte bir hastane.";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label21.Location = new System.Drawing.Point(230, 27);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(341, 38);
+            this.label21.TabIndex = 0;
+            this.label21.Text = "Teknoloji Hastanesi :";
             // 
             // Dashboard
             // 
